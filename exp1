@@ -1,4 +1,4 @@
-x=10
+x=260
 print("the value of x is ",x)
-y=20
+y=40
 print("the value of y is ",x+y)
